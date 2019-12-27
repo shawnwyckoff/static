@@ -1,0 +1,1 @@
+echarts.min.js this version is okay when show volume colors
