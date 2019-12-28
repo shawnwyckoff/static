@@ -1,1 +1,1 @@
-echarts.min.js this version is okay when show volume colors
+echarts.min.js this version is okay when show volume colors, from: https://www.echartsjs.com/examples/vendors/echarts/echarts.min.js?_v_=1574101650733
